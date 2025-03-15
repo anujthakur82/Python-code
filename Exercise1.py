@@ -1,5 +1,5 @@
 n=float(input("Enter the first value:"))
-m=float(input("Enter the second value:"))
+m=float (input("Enter the second value:"))
 ans1=n+m
 print("Addition of",n,"and",m,"is",ans1)
 ans2=n-m
