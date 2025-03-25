@@ -17,6 +17,4 @@ print(fruits[-3:-1]) #slicing using negative index
 
 #Quick Quiz:
 nm = "Alok"
-print(nm[-3:-2])
-
-
+print(nm[-3:-2]) 
